@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SceneGrounp
+  m_EditorClassIdentifier: 
+  m_GroupName: SceneGrounp
+  m_GUID: cabbe5aa0ed866d44aacec5c92fcc6c5
+  m_SerializeEntries:
+  - m_GUID: 4605b8ae6b77b5a48a35e8508762940a
+    m_Address: EffectScene_Sample
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c9720ab356a0642a771bea13969a05
+    m_Address: SampleScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a70f7f504cbb3af4092def825d4fccba
+    m_Address: SampleScene1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef3895e2ed96dc54b9346008be35578c
+    m_Address: SampleScene2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 65e93e59c94cb624aa7d3e125a23501f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4dc649c50efd74a4993e87b5923536a4, type: 2}
+    - {fileID: 11400000, guid: 26c4692f6cc117f4994d482c73f1b9ab, type: 2}
